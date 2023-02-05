@@ -1,0 +1,20 @@
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,200,300,600,700,900);
+
+:root {
+  --color-bright: 228, 44, 95;
+  --color-dark: 43, 24, 135;
+  --color-heavy: 123, 22, 40;
+  --color-light: 133, 165, 255;
+  --color-tint: 245, 245, 245;
+  --color-neutral: 248, 248, 248;
+  --color-transparent: 0, 0, 0;
+}
+
+* {
+  box-sizing: border-box;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+body {
+  margin: 0px;
+}
